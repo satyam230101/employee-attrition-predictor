@@ -20,11 +20,11 @@ ENV/
 *.ipynb_checkpoints
 
 # Model files (large — store with Git LFS if needed)
-model/*.pkl
+# model/*.pkl
 
 # Data (do not commit raw data to GitHub)
-data/*.csv
-data/*.xlsx
+# data/*.csv
+# data/*.xlsx
 
 # OS
 .DS_Store
