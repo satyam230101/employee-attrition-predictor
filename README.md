@@ -13,7 +13,7 @@
 
 ## 🚀 Live Demo
 
-> **[🔗 Click here to view the live app on Streamlit Cloud](#)**
+> **[🔗 [Click here to view the live app on Streamlit Cloud](https://employee-attrition-predictor-beetvurojwcdjgpbj85gus.streamlit.app/)](#)**
 > *(Replace with your deployed URL after deployment)*
 
 ---
